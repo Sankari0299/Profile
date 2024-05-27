@@ -49,8 +49,8 @@ January 2021 – July 2022
 - Implemented risk-adjusted metrics and geospatial visualizations, resulting in a 15% improvement in coding accuracy across facilities and enhancing patient care. Accompanied forecasting to predict future trends in coding accuracy.
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/sankari-penumaka
-Email: sankari0299@gmail.com
-Phone: +19803615826
+-- LinkedIn: https://www.linkedin.com/in/sankari-penumaka
+-- Email: sankari0299@gmail.com
+-- Phone: +1 (980)-361-5826
 
 Feel free to reach out to discuss collaborations, opportunities, or simply to connect!
