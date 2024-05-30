@@ -12,7 +12,7 @@ Hello! This is Sankari Penumaka. My journey into the dynamic world of data analy
 ## Education
 
 **University of North Carolina at Charlotte**  
-*Master of Science in Health Informatics and Analytics*  
+*Master of Science in Informatics and Analytics*  
 *Aug 2022 - May 2024
  
 ## Experience
